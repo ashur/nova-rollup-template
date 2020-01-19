@@ -1,0 +1,14 @@
+{
+	"identifier": "ashur.Extension",
+	"name": "Extension",
+	"vendor": "Ashur Cabrera",
+	"description": "",
+	"version": "0.1.0",
+	"categories": [],
+
+	"homepage": "",
+	"repository": "",
+	"bugs": "",
+
+	"main": "bundle.js"
+}
